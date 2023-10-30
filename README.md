@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @abstract-sha
-- 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Crypto Projects
+
 
 
 <!---
